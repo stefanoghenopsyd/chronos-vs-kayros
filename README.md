@@ -1,2 +1,2 @@
-# chronos-vs-kayros
+# Chronos-vs-Kayrós
 Chi guida il tuo tempo?
